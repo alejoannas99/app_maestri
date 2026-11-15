@@ -64,4 +64,4 @@ altro, e ci si cerca sulle piste.
 
 ## Contatti
 
-Alessandro Joannas, [LinkedIn](https://www.linkedin.com/) *(sostituire con il link del profilo)*
+Alessandro Joannas
